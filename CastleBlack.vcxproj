@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{64da6310-e301-4d01-bdeb-0a2991cc354c}</ProjectGuid>
+    <RootNamespace>CastleBlack</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>C:\OpenGL\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\OpenGL\Lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opengl32.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\OpenGL\glad.c" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="stb_image.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="almari.h" />
+    <ClInclude Include="basic_camera.h" />
+    <ClInclude Include="bed.h" />
+    <ClInclude Include="benchtool.h" />
+    <ClInclude Include="board.h" />
+    <ClInclude Include="bookShelf.h" />
+    <ClInclude Include="broom.h" />
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="chair.h" />
+    <ClInclude Include="cube.h" />
+    <ClInclude Include="curve.h" />
+    <ClInclude Include="cylinder.h" />
+    <ClInclude Include="cylinder2.h" />
+    <ClInclude Include="dining.h" />
+    <ClInclude Include="directionalLight.h" />
+    <ClInclude Include="drawcube.h" />
+    <ClInclude Include="ebook.h" />
+    <ClInclude Include="floorfire.h" />
+    <ClInclude Include="gate.h" />
+    <ClInclude Include="goblet.h" />
+    <ClInclude Include="halfs.h" />
+    <ClInclude Include="jharbati.h" />
+    <ClInclude Include="lalsofa.h" />
+    <ClInclude Include="lamp.h" />
+    <ClInclude Include="library.h" />
+    <ClInclude Include="mainstair.h" />
+    <ClInclude Include="pointlight.h" />
+    <ClInclude Include="potion.h" />
+    <ClInclude Include="pyramid.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="roundTable.h" />
+    <ClInclude Include="scull.h" />
+    <ClInclude Include="shader.h" />
+    <ClInclude Include="sidedrawer.h" />
+    <ClInclude Include="skybox.h" />
+    <ClInclude Include="sofa.h" />
+    <ClInclude Include="sphere.h" />
+    <ClInclude Include="sphere2.h" />
+    <ClInclude Include="SpotLight.h" />
+    <ClInclude Include="staircase.h" />
+    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="torus.h" />
+    <ClInclude Include="traizoid.h" />
+    <ClInclude Include="tree.h" />
+    <ClInclude Include="triangle.h" />
+    <ClInclude Include="tv.h" />
+    <ClInclude Include="wallfireholder.h" />
+    <ClInclude Include="walls.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\Downloads\flag.jpg" />
+    <Image Include="..\..\..\Downloads\leftdoor.jpg" />
+    <Image Include="..\..\..\Downloads\rightdoor.jpg" />
+    <Image Include="Texture\bedpichon.jpg" />
+    <Image Include="Texture\board.jpg" />
+    <Image Include="Texture\brick-wall.jpg" />
+    <Image Include="Texture\carpet.jpg" />
+    <Image Include="Texture\castledoor.jpeg" />
+    <Image Include="Texture\castlewall.jpg" />
+    <Image Include="Texture\chair.jpg" />
+    <Image Include="Texture\chotowindow.jpg" />
+    <Image Include="Texture\container2.png" />
+    <Image Include="Texture\container2_specular.png" />
+    <Image Include="Texture\cup.jpg" />
+    <Image Include="Texture\dark_wood_disp_4k.png" />
+    <Image Include="Texture\diary.jpeg" />
+    <Image Include="Texture\diningdoor.jpg" />
+    <Image Include="Texture\doorcopy.jpg" />
+    <Image Include="Texture\doorr.jpg" />
+    <Image Include="Texture\dskeleton.jpg" />
+    <Image Include="Texture\dumb.jpg" />
+    <Image Include="Texture\emoji.png" />
+    <Image Include="Texture\floor.png" />
+    <Image Include="Texture\floor_tiles_04_diff_4k.jpg" />
+    <Image Include="Texture\floor_tiles_04_disp_4k.png" />
+    <Image Include="Texture\floor_tiles_04_rough_4k.jpg" />
+    <Image Include="Texture\fr.jpg" />
+    <Image Include="Texture\gobletfire.jpg" />
+    <Image Include="Texture\grass.jpg" />
+    <Image Include="Texture\greathalldoor.jpg" />
+    <Image Include="Texture\gryf.jpg" />
+    <Image Include="Texture\hagrid.jpg" />
+    <Image Include="Texture\Harry.jpg" />
+    <Image Include="Texture\leaf.jpg" />
+    <Image Include="Texture\locket.jpg" />
+    <Image Include="Texture\marble_01_diff_4k.jpg" />
+    <Image Include="Texture\marble_01_disp_4k.png" />
+    <Image Include="Texture\marble_01_rough_4k.jpg" />
+    <Image Include="Texture\miinevera.jpg" />
+    <Image Include="Texture\mywindow.jpg" />
+    <Image Include="Texture\nagini.jpg" />
+    <Image Include="Texture\palace_window.jpeg" />
+    <Image Include="Texture\palace_window.jpg" />
+    <Image Include="Texture\patterned_brick_floor_diff_4k.jpg" />
+    <Image Include="Texture\patterned_brick_floor_disp_4k.png" />
+    <Image Include="Texture\pavement_05_diff_4k.jpg" />
+    <Image Include="Texture\pavement_05_disp_4k.png" />
+    <Image Include="Texture\potion.jpg" />
+    <Image Include="Texture\red-sofa.jpg" />
+    <Image Include="Texture\red_sandstone_wall_diff_4k.jpg" />
+    <Image Include="Texture\red_sandstone_wall_disp_4k.png" />
+    <Image Include="Texture\ring.jpg" />
+    <Image Include="Texture\roq.jpg" />
+    <Image Include="Texture\scull.jpg" />
+    <Image Include="Texture\sky.jpg" />
+    <Image Include="Texture\snape.jpg" />
+    <Image Include="Texture\sofacushion.jpg" />
+    <Image Include="Texture\sofacushion2.jpg" />
+    <Image Include="Texture\sword.jpg" />
+    <Image Include="Texture\table.jpg" />
+    <Image Include="Texture\tiara.jpeg" />
+    <Image Include="Texture\tiara.jpg" />
+    <Image Include="Texture\volde.jpeg" />
+    <Image Include="Texture\window.jpeg" />
+    <Image Include="Texture\window.jpg" />
+    <Image Include="Texture\wood_cabinet_worn_long_diff_4k.jpg" />
+    <Image Include="Texture\wood_cabinet_worn_long_disp_4k.png" />
+    <Image Include="Texture\wood_table_001_diff_4k.jpg" />
+    <Image Include="Texture\wood_table_001_disp_4k.png" />
+    <Image Include="Texture\wood_table_001_rough_4k.jpg" />
+    <Image Include="Texture\wood_table_worn_diff_4k.jpg" />
+    <Image Include="Texture\wood_table_worn_disp_4k.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragmentShader.fs" />
+    <None Include="fragmentShaderForGouraudShading.fs" />
+    <None Include="fragmentShaderForPhongShadingWithTexture.fs" />
+    <None Include="skybox.fs" />
+    <None Include="skybox.vs" />
+    <None Include="vertexShader.vs" />
+    <None Include="vertexShaderForGouraudShading.vs" />
+    <None Include="vertexShaderForPhongShadingWithTexture.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CastleBlack.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

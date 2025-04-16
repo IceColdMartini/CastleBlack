@@ -1,0 +1,502 @@
+﻿  main.cpp
+C:\Users\Amit\Desktop\CastleBlack\cylinder.h(159,24): warning C4101: 'normalX': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\cylinder.h(159,33): warning C4101: 'normalY': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\cylinder.h(159,18): warning C4101: 'y': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\cylinder.h(159,42): warning C4101: 'normalZ': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\torus.h(198,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\torus.h(199,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\curve.h(25,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\curve.h(107,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\walls.h(22,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\walls.h(22,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\roundTable.h(18,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\chair.h(11,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\chair.h(11,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\chair.h(11,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(12,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(12,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(165,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(171,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(177,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(183,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(189,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(195,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(201,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(146,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(146,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sofa.h(146,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sphere.h(179,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sphere.h(180,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sphere.h(182,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\halfs.h(172,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\halfs.h(173,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\halfs.h(174,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\halfs.h(202,31): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(40,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(48,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(56,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(64,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(72,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(80,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(88,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lalsofa.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lamp.h(18,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\lamp.h(18,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bookShelf.h(14,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bookShelf.h(14,106): warning C4101: 'ytranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bookShelf.h(14,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bookShelf.h(14,94): warning C4101: 'ttranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bookShelf.h(14,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\benchtool.h(12,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\benchtool.h(12,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\ebook.h(110,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\ebook.h(113,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\ebook.h(13,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\ebook.h(13,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\ebook.h(13,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\almari.h(21,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\almari.h(39,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\almari.h(13,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\almari.h(13,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\almari.h(13,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\board.h(19,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\board.h(19,106): warning C4101: 'ytranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\board.h(19,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\board.h(19,94): warning C4101: 'ttranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\board.h(19,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(18,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(18,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(18,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(18,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(18,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(58,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(58,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\floorfire.h(58,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(16,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(16,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(32,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(38,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(64,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(65,155): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(74,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(75,155): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(86,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(99,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(102,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(106,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(111,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(116,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(121,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(19,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\staircase.h(19,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(28,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(41,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(41,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(52,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(16,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(16,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(16,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\wallfireholder.h(16,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\jharbati.h(28,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\jharbati.h(28,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\jharbati.h(28,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(262,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(783,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(790,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(797,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(804,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(811,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(818,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(2113,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(2132,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(2187,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(2193,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(2199,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\bed.h(2205,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sidedrawer.h(14,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sidedrawer.h(14,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\sidedrawer.h(14,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\goblet.h(26,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\goblet.h(26,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\library.h(30,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\library.h(30,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\library.h(30,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\library.h(30,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(15,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(15,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(31,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(37,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(63,60): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(71,60): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(82,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(95,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(100,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(104,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(109,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(18,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\mainstair.h(18,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,90): warning C4101: 'model': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,77): warning C4101: 'scaleMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,97): warning C4101: 'temp': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\gate.h(23,15): warning C4101: 'translateMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\scull.h(28,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\scull.h(28,102): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\scull.h(28,90): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(38,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(42,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(28,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(28,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(28,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(28,99): warning C4101: 'xtranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\broom.h(28,87): warning C4101: 'ztranslate': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(986,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1014,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1440,44): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1441,49): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1442,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1461,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1468,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1475,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1483,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1488,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1493,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1498,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1503,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amit\Desktop\CastleBlack\main.cpp(1508,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  CastleBlack.vcxproj -> C:\Users\Amit\Desktop\CastleBlack\x64\Debug\CastleBlack.exe

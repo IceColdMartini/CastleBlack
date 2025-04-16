@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Texture">
+      <UniqueIdentifier>{4b1f6953-2862-4637-9519-d5dba2edb24f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\OpenGL\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basic_camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pointlight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="directionalLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="walls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="roundTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sofa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sidedrawer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dining.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bookShelf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cylinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="traizoid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="halfs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="goblet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mainstair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scull.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="broom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="almari.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="benchtool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cylinder2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawcube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ebook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="floorfire.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jharbati.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lalsofa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lamp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="potion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="staircase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="torus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wallfireholder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="curve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Texture\bedpichon.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\board.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\brick-wall.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\carpet.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\castledoor.jpeg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\castlewall.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\chair.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\chotowindow.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\container2.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\container2_specular.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\cup.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\dark_wood_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\diary.jpeg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\diningdoor.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\doorcopy.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\doorr.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\dskeleton.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\dumb.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\emoji.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\floor.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\floor_tiles_04_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\floor_tiles_04_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\floor_tiles_04_rough_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\fr.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\gobletfire.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\grass.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\greathalldoor.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\gryf.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\hagrid.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\Harry.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\leaf.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\locket.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\marble_01_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\marble_01_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\marble_01_rough_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\miinevera.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\mywindow.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\nagini.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\palace_window.jpeg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\palace_window.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\patterned_brick_floor_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\patterned_brick_floor_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\pavement_05_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\pavement_05_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\potion.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\red_sandstone_wall_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\red_sandstone_wall_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\red-sofa.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\ring.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\roq.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\scull.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\sky.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\snape.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\sofacushion.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\sofacushion2.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\sword.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\table.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\tiara.jpeg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\tiara.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\volde.jpeg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\window.jpeg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\window.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_cabinet_worn_long_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_cabinet_worn_long_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_table_001_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_table_001_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_table_001_rough_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_table_worn_diff_4k.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="Texture\wood_table_worn_disp_4k.png">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\flag.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\leftdoor.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\rightdoor.jpg">
+      <Filter>Texture</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="vertexShaderForPhongShadingWithTexture.vs" />
+    <None Include="fragmentShaderForPhongShadingWithTexture.fs" />
+    <None Include="vertexShader.vs" />
+    <None Include="fragmentShader.fs" />
+    <None Include="vertexShaderForGouraudShading.vs" />
+    <None Include="fragmentShaderForGouraudShading.fs" />
+    <None Include="skybox.vs" />
+    <None Include="skybox.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CastleBlack.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
